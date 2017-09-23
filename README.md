@@ -1,4 +1,4 @@
-#This is the repo for customer segmentation project.
+# This is the repo for customer segmentation project.
 
 
 ## Creators
